@@ -15,6 +15,7 @@ int main(){
         cout << "index :: " << twoSum[i] << " ";
     }
 }
+
 //two For loop method
 vector<int> findTwoSum(vector<int> &nums, int target){
     vector<int> twoSum;
